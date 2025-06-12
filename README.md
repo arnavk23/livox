@@ -17,12 +17,3 @@
 4. **Capture Data**
    - Press **"Start Record"** to generate `.lvx` files
    - Save screenshots as needed
-
-## Visualization Results
-
-Screenshots from the Livox Viewer during the live capture session:
-
-| Viewport | Capture Example |
-|---------|------------------|
-| Top-down | ![Top-down](screenshots/top_view.png) |
-| Oblique | ![Oblique](screenshots/oblique_view.png) |
